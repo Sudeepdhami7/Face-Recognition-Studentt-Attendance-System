@@ -100,3 +100,6 @@ GitHub: https://github.com/Sudeepdhami7
 
 ### Developer Details
 ![Developer](Screenshot%202026-08-04%20011418.png)
+
+### Database Records
+![Database Records](Screenshot%202026-08-04%20013931.png)
