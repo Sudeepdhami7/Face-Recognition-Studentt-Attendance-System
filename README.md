@@ -76,3 +76,27 @@ python main.py
 **Sudeep Singh Dhami**
 
 GitHub: https://github.com/Sudeepdhami7
+
+
+## 📸 Project Screenshots
+
+### Login Page
+![Login](Screenshot%202026-08-04%20010508.png)
+
+### Home Dashboard
+![Dashboard](Screenshot%202026-08-04%20010607.png)
+
+### Student Management
+![Student](Screenshot%202026-08-04%20010629.png)
+
+### Face Detection
+![Face Detection](Screenshot%202026-08-04%20010652.png)
+
+### Face Recognition
+![Face Recognition](Screenshot%202026-08-04%20010710.png)
+
+### Attendance Management
+![Attendance](Screenshot%202026-08-04%20010741.png)
+
+### Developer Details
+![Developer](Screenshot%202026-08-04%20011418.png)
